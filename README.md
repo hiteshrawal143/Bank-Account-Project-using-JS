@@ -12,17 +12,20 @@ This project simulates a simple banking system using JavaScript. It includes fun
 
   2. Withdraw
      - Subtracts a specified amount from the account from the account balance if suffiecient funds are available.
-     - Records the transaction.
 
   3. Transfer
-     - Transfer a specified amount to nother account.
-     - Records both the withdrawl from the sender and the deposite 
+     - Transfer a specified amount to another account.
+     - Records both the withdrawl from the sender and the deposite to the receiver.
 
   4. Add Interst
-     - calculates and adds interst to the account balance based on a specified rate.
+     - calculates and adds interest to the account balance based on a specified rate.
    
   5. Get Account Details
-     - Retrives the account details
+     - Retrives the account details.
+    
+ ## Conclusion 
+This project demonstrates a simple banking system with essential functionalities. It allows users to interact with the system via a web interface, providing a practical example of how JavaScript can be used to manage financial transactions.
+It is a great starting point for more advanced financial applications.
 
 ## Output
 ![WhatsApp Image 2024-06-29 at 23 12 51](https://github.com/hiteshrawal143/Bank-Account-Project-using-JS/assets/103030562/8e9fd263-4215-4e02-9e95-ca2db45c4ff8)
