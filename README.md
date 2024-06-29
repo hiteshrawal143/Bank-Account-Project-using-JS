@@ -18,5 +18,13 @@ This project simulates a simple banking system using JavaScript. It includes fun
      - Transfer a specified amount to nother account.
      - Records both the withdrawl from the sender and the deposite 
 
+  4. Add Interst
+     - calculates and adds interst to the account balance based on a specified rate.
+   
+  5. Get Account Details
+     - Retrives the account details
+
+        
+
 
 
