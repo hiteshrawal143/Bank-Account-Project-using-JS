@@ -24,6 +24,12 @@ This project simulates a simple banking system using JavaScript. It includes fun
   5. Get Account Details
      - Retrives the account details
 
+## Output
+![WhatsApp Image 2024-06-29 at 23 12 51](https://github.com/hiteshrawal143/Bank-Account-Project-using-JS/assets/103030562/8e9fd263-4215-4e02-9e95-ca2db45c4ff8)
+![WhatsApp Image 2024-06-29 at 23 12 50](https://github.com/hiteshrawal143/Bank-Account-Project-using-JS/assets/103030562/c30c3c6c-1447-48b7-9b5f-c2f7fa2f2dc9)
+![WhatsApp Image 2024-06-29 at 23 12 50 (1)](https://github.com/hiteshrawal143/Bank-Account-Project-using-JS/assets/103030562/29c3793e-7a8e-4647-920b-0f9f8c4d73dc)
+
+
 ## Conclusion
 This project demonstrates a simple banking system with essential functionalities. It allows users to interact with the system via a web interface, providing a practical example of how JavaScript can be used to manage financial transactions.
 
